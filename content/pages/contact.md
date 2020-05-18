@@ -1,13 +1,13 @@
 ---
-title: Contact us
-subtitle: ''
-featuredImage: '/images/uploads/mark-chang-74-3.jpg'
-address: 404 James St, Burleigh Heads QLD 4220
-phone: 0987 123 456
-email: example@example.com
+title: Have a question?
+featuredImage: /images/uploads/contact.png
+subtitle: Contact
+address: Virginia, USA
+phone: 555.555.5555
+email: nick@ironicsuccess.com
 ---
 
-# Example contact form
+# Leave a message
 
 This form is setup to use Netlify's form handling:
 
