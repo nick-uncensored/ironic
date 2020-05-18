@@ -1,32 +1,18 @@
 ---
-title: About page title
-featuredImage: /images/uploads/tim-marshall-155597.jpg
-section1: |-
-  ## Lorem Ipsum
+title: Who am I?
+featuredImage: /images/uploads/aboutmecheck.png
+subtitle: What is happening
+section1: >-
+  ## I'm nobody important
 
-  Netlify CMS works with both `.md` and `.json`.
 
-  ![Image test](/images/uploads/isabella juskova.jpg)
+  I like the title for this site. It's so Ironic that I created my own business and have a career. I feel out of place sometimes, like I found a cheat code.
+section2: >-
+  ## Love what you do and never work a day...
 
-  [Link test](/images/uploads/isabella juskova.jpg)
 
-  ### Embed Test
+  I heard this phrase when I was a kid. I never had any real hobbies (or what i would considered a hobby). After I finally took my future seriously, I just set goals and started seeing results.
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-section2: |-
-  ## This is a Container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-  Dictumst a ultrices mi a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit scelerisque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
-
-  The image below will have a `srcset` attribute generated:
-
-  ![Tim Marshall](/images/uploads/tim-marshall-155597.jpg)
+  I had failures, too. Lots! Instead of dwelling, I learned to always find a lesson to learn, or treated the loss as part of the journey. Reading a bunch of books on "power" early on created a mind-set that made me take more risks.
 ---
