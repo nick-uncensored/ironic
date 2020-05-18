@@ -1,7 +1,10 @@
 ---
 title: Who am I?
 featuredImage: /images/uploads/aboutmecheck.png
-subtitle: What is happening
+subtitle: |-
+  ![](/images/uploads/growth.png)
+
+  What is happening
 section1: >-
   ## I'm nobody important
 
