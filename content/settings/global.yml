@@ -1,12 +1,9 @@
-siteTitle: Netlify CMS + React Starter
-siteUrl: 'https://netlify-cms-react-starter.netlify.com'
-siteDescription: >-
-  A starter project for creating lightning-fast, offline-first websites with
-  Netlify CMS and React.
+siteTitle: Ironic Success
+siteUrl: https://ironicsuccess.com
+siteDescription: Musings of Nick Kaufmann
 socialMediaCard:
-  image: /images/uploads/card-og.png
-  twitterCreatorAccount: '@Jinksi'
-  twitterSiteAccount: ''
-headerScripts: |-
-  <!-- Add your analytics scripts / verification meta here -->
+  image: /images/uploads/welcome.png
+  twitterCreatorAccount: "@musthaveskill"
+  twitterSiteAccount: ""
+headerScripts: <!-- Add your analytics scripts / verification meta here -->
 enableServiceWorker: false
